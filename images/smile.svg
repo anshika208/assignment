@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <style>
+            .cls-1,.cls-3,.cls-5{fill:none}.cls-2{fill:#8cdd8f;opacity:.35}.cls-3,.cls-5{stroke:#1caba2}.cls-3{stroke-width:4.4px}.cls-4{fill:#1caba2}.cls-5{stroke-width:4px}.cls-6{stroke:none}
+        </style>
+    </defs>
+    <g id="ic_happy_cus" transform="translate(-43 -336)">
+        <path id="Rectangle_883" d="M0 0h64v64H0z" class="cls-1" data-name="Rectangle 883" transform="translate(43 336)"/>
+        <g id="Group_2319" data-name="Group 2319" transform="translate(-82 -181)">
+            <g id="Group_1028" data-name="Group 1028" transform="translate(-381 -1621)">
+                <path id="Rectangle_554" d="M13 0a13 13 0 0 1 13 13v26H0V13A13 13 0 0 1 13 0z" class="cls-2" data-name="Rectangle 554" transform="rotate(180 283 1091)"/>
+                <g id="Group_1027" data-name="Group 1027">
+                    <g id="Ellipse_52" class="cls-3" data-name="Ellipse 52" transform="translate(506 2148)">
+                        <circle cx="27" cy="27" r="27" class="cls-6"/>
+                        <circle cx="27" cy="27" r="24.8" class="cls-1"/>
+                    </g>
+                    <circle id="Ellipse_53" cx="4" cy="4" r="4" class="cls-4" data-name="Ellipse 53" transform="translate(520 2165)"/>
+                    <circle id="Ellipse_54" cx="4" cy="4" r="4" class="cls-4" data-name="Ellipse 54" transform="translate(538 2165)"/>
+                    <path id="Path_826" d="M-20415.5 16485.422s7.486 7.645 16.049 0" class="cls-5" data-name="Path 826" transform="translate(20941 -14304)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
